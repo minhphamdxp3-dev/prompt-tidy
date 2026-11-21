@@ -1,0 +1,1 @@
+{ "name": "prompt-tidy", "version": "0.1.0", "description": "A button above the prompt box that rewrites a rambling or dictated draft into a clear, organized prompt, with undo.", "types": "./types/index.d.ts" }
